@@ -5,8 +5,8 @@ h1{
 }
 #logo{
     display: inline;
-    float: left;
-    width: 50px;
+    /* float: left;
+    width: 50px; */
     margin-right: 10px;
 }
 #icons {
